@@ -24,6 +24,6 @@ hr.hr-text::before {
   color: #ffa41c;
 }
 
-*a {
+a* {
   text-decoration: none;
 }
